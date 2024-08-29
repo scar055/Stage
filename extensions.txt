@@ -1,0 +1,19 @@
+eslint
+figma for vscode
+gitlens
+MDX
+Package Json Upgrade
+Prettier
+docker
+gitmoji
+css peek
+Better Comments
+Auto Close Tag
+Auto Rename Tag
+Console Ninja
+ES7+ React/Redux/React-Native snippets
+Live Share
+Todo Tree
+Thunder Client
+Axe Accessibility Linter (download ook voor browser)
+Dracula Official Theme
